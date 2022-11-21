@@ -2,7 +2,7 @@ package org.example;
 
 public class FilmClassifications {
 
-    public static String availableClassifications(int ageOfViewer)
+    public static String availableClassifications(double ageOfViewer)
 
   {
 
